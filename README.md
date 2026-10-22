@@ -1,0 +1,1 @@
+# ReTranslator-AIdetectorTxt
